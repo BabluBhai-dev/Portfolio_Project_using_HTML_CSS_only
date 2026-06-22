@@ -17,3 +17,8 @@ html{
 body{
     font-family:'Poppins',sans-serif;
 }
+
+a{
+    color: var(--link-color);
+    text-decoration: none;
+}
