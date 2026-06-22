@@ -94,10 +94,12 @@ nav .right a span{
 
 .hero-section .headshot{
     flex: 2;
+    display: flex;
+    justify-content: right;
 }
 
 .hero-section .headshot img{
-    width: 300px;
+    width: 350px;
     border-radius: 50%;
 }
 
