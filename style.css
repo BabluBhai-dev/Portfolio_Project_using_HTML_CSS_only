@@ -64,6 +64,14 @@ nav .right a span{
     margin: 50px 0;
 }
 
+.hero-section .text{
+    flex: 5;
+}
+
+.hero-section .headshot{
+    flex: 2;
+}
+
 @media(max-width:600px){
     /* Navbar */
     nav{
