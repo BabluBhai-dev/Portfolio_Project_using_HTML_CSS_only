@@ -102,6 +102,9 @@ nav .right a span{
     width: 350px;
     border-radius: 50%;
 }
+
+/* section 2: skills */
+
 @media (max-width:850px) {
     /* section 1:hero */
     .hero-section .text h2{
