@@ -39,3 +39,8 @@ nav .left a{
     font-weight: 600;
 }
 
+nav .right a{
+    color: var(--text-color);
+    margin: 0 10px;
+}
+
