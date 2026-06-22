@@ -31,3 +31,9 @@ nav{
     padding: 0 50px;
     height: 80px;
 }
+
+nav .left a{
+    color: var(--text-color);
+    font-size: 22px;
+    font-weight: 600;
+}
